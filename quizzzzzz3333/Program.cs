@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 /*
- quizzzzzz3333 - A simple console quiz application in C#
+    quizzzzzz3333 - A simple console quiz application in C#
     Version: 1.0.0
  */
 
